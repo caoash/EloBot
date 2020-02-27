@@ -127,5 +127,5 @@ client.on('message', (message) => {
  } 
 })
 
-client.login("NjgwMjM0NTQzOTQwMjM5Mzk1.Xk88TA.FiqYA0RoSOVYkGutr4D-R_hJZX4")
+client.login("secret-login-token")
 
