@@ -1,1 +1,3 @@
+ELOBot is a basic Discord Bot that supports a rating system!
 
+To modify, simply modify the "runDuel" function, which returns 0 or 1 depending on the winner of a single contest (the bot supports the rest!)
